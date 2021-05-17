@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img width="300" src="https://zhaolinyang.ltd/images/赵林阳.png" />  
-  <h1 align="center">ladd zhao</h1>
+  <h1 align="center">辽宁职业学院GitHub开源项目</h1>
 </p>
 
 <p align="right">
