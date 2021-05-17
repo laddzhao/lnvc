@@ -2,7 +2,7 @@
   <h3 align="left">辽宁职业学院GitHub开源项目</h3>
 </p>
 <p align="center">
-  <img width="300" src="https://zhaolinyang.ltd/images/赵林阳.png" />  
+  <img width="300" src="https://zhaolinyang.ltd/images/辽宁职业学院.jpg" />  
   <h1 align="center">辽宁职业学院GitHub开源项目</h1>
 </p>
 
