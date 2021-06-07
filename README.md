@@ -30,9 +30,9 @@
 </p>
 
 <p>
-  <h3 align="left">2：网页点击改变背景颜色</h3>
+  <h3 align="left">2：网页制作</h3>
 </p>
 <p align="center">
-<a href="https://github.com/selierlin/Share-SSR-V2ray/blob/master/README.md"><img width="300" src="https://zhaolinyang.ltd/images/科学上网.jpg" /></a>
- <h1 align="center">🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站</h1>
+<a href="https://github.com/laddzhao/dianji-bianse"><img width="300" src="https://zhaolinyang.ltd/images/科学上网.jpg" /></a>
+ <h1 align="center">网页点击改变背景颜色</h1>
 </p>
