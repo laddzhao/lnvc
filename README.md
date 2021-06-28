@@ -38,7 +38,7 @@
 </p>
 
 <p>
-  <h3 align="left">2：网页源码</h3>
+  <h3 align="left">3：网页源码</h3>
 </p>
 <p align="center">
 <a href="https://github.com/laddzhao/lnvc-LiuYibo-zhuangxiuwangzhan"><img width="700" src="https://zhaolinyang.ltd/images/刘仪博装修网站.gif" /></a>
